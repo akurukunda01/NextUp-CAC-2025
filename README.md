@@ -13,6 +13,9 @@ The app has three main features:
 - **Frontend:** React Native  
 - **Backend:** Flask (Python)  
 - **Database:** PostgreSQL  
-- **AI Integration:** HuggingFace Inference API (for analyzing short-answer poll responses)  
+- **AI Integration:** HuggingFace Inference API (for analyzing short-answer poll responses)
+
+## Video Submission
+https://youtu.be/fC52krjifYo
 
 
